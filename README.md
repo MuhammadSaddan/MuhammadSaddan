@@ -36,13 +36,17 @@ October 2023 – December 2022
 ---
 
 Projects
+Vision Based Human Tracking and Localization of Security Surveillance- FYP
 
-Fault Detection Location and Analysis on Transmission Lines - FYP
 May 2021 – August 2022
-
-- Developed an innovative fault detection approach for transmission lines using a microcontroller-based model, enhancing power grid stability and reliability.
-- Utilized advanced programming skills to design and implement the fault detection system, ensuring seamless hardware and software integration.
-- Conducted comprehensive power system analysis, identifying and mitigating faults, and optimizing real-time fault detection algorithms for enhanced performance.
+Developed a vision-based human tracking system using surveillance cameras.
+• Applied machine learning and deep learning for person detection, recognition, and tracking.
+• Utilized multiple camera systems to track individuals from various angles.
+• Enhanced security by recognizing both known and unknown persons.
+• Implemented automated surveillance techniques to minimize manual monitoring.
+• Used face recognition algorithms for comprehensive individual tracking.
+• Explored AI, neural networks, and convolutional neural networks (CNN).
+• Contributed to improving security measures through technological advancements
 
 
 Skills

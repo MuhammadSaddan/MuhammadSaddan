@@ -26,7 +26,9 @@ Engineering Tools and Technologies
 Education
 
 Master’s Degree in Electrical Engineering — In Progress
+
 Yangzhou University
+
 Research area: Sensorless control, model-based estimation, and rotor position error suppression for PMSM drives.
 
 BSc Electrical Engineering
